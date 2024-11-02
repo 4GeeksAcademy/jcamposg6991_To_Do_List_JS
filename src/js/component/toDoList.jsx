@@ -20,7 +20,7 @@ const ToDoList = () => {
 
   return (
     <div className="toDoList">
-      <h1>Todo List</h1>
+      <h1>To do List</h1>
       <input
         type="text"
         value={inputValue}
